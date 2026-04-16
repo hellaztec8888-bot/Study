@@ -1,4 +1,4 @@
-from copy import copy
+from copy_sort import copy_copy
 def copy_sort(array):
     array = [5, 1, 4, 3, 5, 6, 8, 2]
     copy = array[:]
